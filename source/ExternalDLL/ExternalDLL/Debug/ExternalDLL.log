@@ -1,0 +1,305 @@
+﻿  DefaultExtraction.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  DefaultLocalization.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  DefaultPreProcessing.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  DLLExecution.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  export.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  Feature.cpp
+  FeatureMap.cpp
+  GrayscaleAlgorithm.cpp
+  SonnetXVIII.cpp
+  Image.cpp
+  ImageFactory.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  ImageIO.cpp
+  IntensityImage.cpp
+  IntensityImagePrivate.cpp
+  IntensityImageStudent.cpp
+  Main.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 's': unrecognized character escape sequence
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 'D': unrecognized character escape sequence
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 'V': unrecognized character escape sequence
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\Main.cpp(29,26): warning C4129: 'c': unrecognized character escape sequence
+  HereBeDragons.cpp
+  PostProcessing.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  Representation.cpp
+  RGBImage.cpp
+  Generating Code...
+  Compiling...
+  RGBImagePrivate.cpp
+  RGBImageStudent.cpp
+  StudentExtraction.cpp
+  StudentLocalization.cpp
+  StudentPreProcessing.cpp
+  Generating Code...
+opencv_core2410.lib(alloc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(matrix.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(drawing.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(system.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(convert.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(copy.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(matop.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(stat.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(arithm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(opencv_core_pch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(rand.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(parallel.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(array.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(datastructs.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(gpumat.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(opengl_interop_deprecated.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(opengl_interop.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(tables.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(matmul.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(lapack.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(persistence.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_core2410.lib(mathfuncs.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(window.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(loadsave.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(window_w32.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(opencv_highgui_pch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_bmp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_sunras.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_jpeg.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_pxm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_tiff.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_png.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_jpeg2000.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_exr.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(utils.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(bitstrm.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_highgui2410.lib(grfmt_base.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(morph.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(color.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(filter.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(imgwarp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(thresh.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(tables.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(opencv_imgproc_pch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(templmatch.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(imgwarp_avx.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(imgwarp_avx2.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(smooth.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(utils.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+opencv_imgproc2410.lib(sumpixels.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+libucrt.lib(hypot.obj) : error LNK2005: _hypot already defined in opencv_core2410.lib(opencv_core_pch.obj)
+opencv_core2410.lib(dxt.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfHeader.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfFrameBuffer.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfInputFile.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfOutputFile.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfChannelList.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(half.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfChromaticities.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfStandardAttributes.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IexBaseExc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfIO.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfStdIO.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfCompressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfBoxAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfChannelListAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfChromaticitiesAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfCompressionAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfDoubleAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfEnvmapAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfFloatAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfIntAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfKeyCode.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfKeyCodeAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfLineOrderAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfMatrixAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfOpaqueAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfPreviewImage.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfPreviewImageAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfRationalAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfStringAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfStringVectorAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTileDescriptionAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTimeCode.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTimeCodeAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfVecAttribute.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IlmThreadMutexWin32.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IlmThreadPool.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfScanLineInputFile.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTiledInputFile.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfMisc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IlmThreadSemaphoreWin32.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IexThrowErrnoExc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfRleCompressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfZipCompressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfPizCompressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfPxr24Compressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfB44Compressor.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(IlmThreadWin32.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTiledMisc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfTileOffsets.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfConvert.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+IlmImf.lib(ImfHuf.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in DefaultExtraction.obj
+     Creating library C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\Debug\ExternalDLL.lib and object C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\Debug\ExternalDLL.exp
+libjasper.lib(jpc_dec.obj) : error LNK2001: unresolved external symbol ___iob_func
+libjasper.lib(jpc_cs.obj) : error LNK2001: unresolved external symbol ___iob_func
+libjasper.lib(jas_debug.obj) : error LNK2001: unresolved external symbol ___iob_func
+libjasper.lib(jp2_cod.obj) : error LNK2001: unresolved external symbol ___iob_func
+opencv_core2410.lib(system.obj) : error LNK2001: unresolved external symbol ___iob_func
+opencv_highgui2410.lib(grfmt_jpeg2000.obj) : error LNK2001: unresolved external symbol ___iob_func
+libpng.lib(pngerror.obj) : error LNK2001: unresolved external symbol ___iob_func
+libjpeg.lib(jerror.obj) : error LNK2001: unresolved external symbol ___iob_func
+libjasper.lib(jpc_enc.obj) : error LNK2001: unresolved external symbol _sprintf
+libtiff.lib(tif_codec.obj) : error LNK2001: unresolved external symbol _sprintf
+libjpeg.lib(jerror.obj) : error LNK2001: unresolved external symbol _sprintf
+libjasper.lib(jas_seq.obj) : error LNK2001: unresolved external symbol _sprintf
+libjasper.lib(jp2_enc.obj) : error LNK2001: unresolved external symbol _sprintf
+opencv_highgui2410.lib(grfmt_pxm.obj) : error LNK2001: unresolved external symbol _sprintf
+libtiff.lib(tif_getimage.obj) : error LNK2001: unresolved external symbol _sprintf
+libtiff.lib(tif_win32.obj) : error LNK2001: unresolved external symbol _sprintf
+libtiff.lib(tif_dirinfo.obj) : error LNK2001: unresolved external symbol _sprintf
+opencv_core2410.lib(system.obj) : error LNK2001: unresolved external symbol _sprintf
+opencv_core2410.lib(persistence.obj) : error LNK2001: unresolved external symbol _sprintf
+zlib.lib(gzlib.obj) : error LNK2001: unresolved external symbol _sprintf
+opencv_highgui2410.lib(window_w32.obj) : error LNK2001: unresolved external symbol _sprintf
+opencv_core2410.lib(system.obj) : error LNK2019: unresolved external symbol _vsprintf referenced in function "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl cv::format(char const *,...)" (?format@cv@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PBDZZ)
+IlmImf.lib(ImfTileOffsets.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfConvert.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfHuf.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfPxr24Compressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfB44Compressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IlmThreadWin32.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfTiledMisc.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IexThrowErrnoExc.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfRleCompressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfZipCompressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfPizCompressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfScanLineInputFile.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfTiledInputFile.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfMisc.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IlmThreadSemaphoreWin32.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfTimeCodeAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfVecAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IlmThreadMutexWin32.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IlmThreadPool.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfStringAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfStringVectorAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfTileDescriptionAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfTimeCode.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfOpaqueAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfPreviewImage.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfPreviewImageAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfRationalAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfKeyCode.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfKeyCodeAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfLineOrderAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfMatrixAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfDoubleAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfEnvmapAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfFloatAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfIntAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfBoxAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfChannelListAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfChromaticitiesAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfCompressionAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfIO.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfStdIO.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfCompressor.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfAttribute.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(half.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfChromaticities.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfStandardAttributes.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(IexBaseExc.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfFrameBuffer.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfInputFile.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfOutputFile.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfChannelList.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+opencv_core2410.lib(opencv_core_pch.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+opencv_highgui2410.lib(opencv_highgui_pch.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+opencv_imgproc2410.lib(opencv_imgproc_pch.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfHeader.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+IlmImf.lib(ImfScanLineInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfTiledInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(IlmThreadSemaphoreWin32.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfStdIO.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfChannelListAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfOpaqueAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfOutputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfChannelList.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(half.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+opencv_core2410.lib(gpumat.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfHeader.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+IlmImf.lib(ImfFrameBuffer.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &,int)" (??0exception@std@@QAE@ABQBDH@Z) referenced in function "public: __thiscall std::bad_alloc::bad_alloc(void)" (??0bad_alloc@std@@QAE@XZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "void __cdecl Concurrency::Free(void *)" (?Free@Concurrency@@YAXPAX@Z) referenced in function "public: static void __cdecl Concurrency::details::_AllocBase::operator delete(void *)" (??3_AllocBase@details@Concurrency@@SAXPAX@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static class Concurrency::details::_Context __cdecl Concurrency::details::_Context::_CurrentContext(void)" (?_CurrentContext@_Context@details@Concurrency@@SA?AV123@XZ) referenced in function "public: __thiscall Concurrency::_Worker_proxy<unsigned int>::_Worker_proxy<unsigned int>(class Concurrency::_Worker_proxy<unsigned int> *)" (??0?$_Worker_proxy@I@Concurrency@@QAE@PAV01@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static void __cdecl Concurrency::details::_Context::_Yield(void)" (?_Yield@_Context@details@Concurrency@@SAXXZ) referenced in function "public: bool __thiscall Concurrency::_Worker_proxy<unsigned int>::_Receive_range(class Concurrency::_Range<unsigned int> *)" (?_Receive_range@?$_Worker_proxy@I@Concurrency@@QAE_NPAV?$_Range@I@2@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: bool __thiscall Concurrency::details::_Context::_IsSynchronouslyBlocked(void)const " (?_IsSynchronouslyBlocked@_Context@details@Concurrency@@QBE_NXZ) referenced in function "public: bool __thiscall Concurrency::_Worker_proxy<unsigned int>::_Receive_range(class Concurrency::_Range<unsigned int> *)" (?_Receive_range@?$_Worker_proxy@I@Concurrency@@QAE_NPAV?$_Range@I@2@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static unsigned int __cdecl Concurrency::details::_CurrentScheduler::_GetNumberOfVirtualProcessors(void)" (?_GetNumberOfVirtualProcessors@_CurrentScheduler@details@Concurrency@@SAIXZ) referenced in function "public: unsigned int __thiscall Concurrency::auto_partitioner::_Get_num_chunks<unsigned int>(unsigned int)const " (??$_Get_num_chunks@I@auto_partitioner@Concurrency@@QBEII@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static unsigned int __cdecl Concurrency::details::_SpinCount::_Value(void)" (?_Value@_SpinCount@details@Concurrency@@SAIXZ) referenced in function "protected: void __thiscall Concurrency::details::_SpinWait<1>::_Reset(void)" (?_Reset@?$_SpinWait@$00@details@Concurrency@@IAEXXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "void __cdecl Concurrency::details::_UnderlyingYield(void)" (?_UnderlyingYield@details@Concurrency@@YAXXZ) referenced in function "private: void __thiscall Concurrency::_Worker_proxy<unsigned int>::_Wait_on_intrusive_steal(void)" (?_Wait_on_intrusive_steal@?$_Worker_proxy@I@Concurrency@@AAEXXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __cdecl Concurrency::SchedulerPolicy::SchedulerPolicy(unsigned int,...)" (??0SchedulerPolicy@Concurrency@@QAA@IZZ) referenced in function "void __cdecl cv::setNumThreads(int)" (?setNumThreads@cv@@YAXH@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::SchedulerPolicy::~SchedulerPolicy(void)" (??1SchedulerPolicy@Concurrency@@QAE@XZ) referenced in function "void __cdecl cv::setNumThreads(int)" (?setNumThreads@cv@@YAXH@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static unsigned int __cdecl Concurrency::CurrentScheduler::Id(void)" (?Id@CurrentScheduler@Concurrency@@SAIXZ) referenced in function "void __cdecl cv::parallel_for_(class cv::Range const &,class cv::ParallelLoopBody const &,double)" (?parallel_for_@cv@@YAXABVRange@1@ABVParallelLoopBody@1@N@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static class Concurrency::Scheduler * __cdecl Concurrency::CurrentScheduler::Get(void)" (?Get@CurrentScheduler@Concurrency@@SAPAVScheduler@2@XZ) referenced in function "int __cdecl cv::getNumThreads(void)" (?getNumThreads@cv@@YAHXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static void __cdecl Concurrency::CurrentScheduler::Detach(void)" (?Detach@CurrentScheduler@Concurrency@@SAXXZ) referenced in function "void __cdecl cv::parallel_for_(class cv::Range const &,class cv::ParallelLoopBody const &,double)" (?parallel_for_@cv@@YAXABVRange@1@ABVParallelLoopBody@1@N@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static class Concurrency::Scheduler * __cdecl Concurrency::Scheduler::Create(class Concurrency::SchedulerPolicy const &)" (?Create@Scheduler@Concurrency@@SAPAV12@ABVSchedulerPolicy@2@@Z) referenced in function "void __cdecl cv::setNumThreads(int)" (?setNumThreads@cv@@YAXH@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: static unsigned int __cdecl Concurrency::Context::VirtualProcessorId(void)" (?VirtualProcessorId@Context@Concurrency@@SAIXZ) referenced in function "int __cdecl cv::getThreadNum(void)" (?getThreadNum@cv@@YAHXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::critical_section::scoped_lock::scoped_lock(class Concurrency::critical_section &)" (??0scoped_lock@critical_section@Concurrency@@QAE@AAV12@@Z) referenced in function "public: void __thiscall Concurrency::details::_CancellationTokenState::_Cancel(void)" (?_Cancel@_CancellationTokenState@details@Concurrency@@QAEXXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::critical_section::scoped_lock::~scoped_lock(void)" (??1scoped_lock@critical_section@Concurrency@@QAE@XZ) referenced in function "public: void __thiscall Concurrency::details::_CancellationTokenState::_Cancel(void)" (?_Cancel@_CancellationTokenState@details@Concurrency@@QAEXXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: void __thiscall Concurrency::event::set(void)" (?set@event@Concurrency@@QAEXXZ) referenced in function "private: static void __cdecl <lambda_47e1fe12d596ef4061c6cb1f8619960b>::<helper_func_cdecl>(class Concurrency::details::_CancellationTokenRegistration *)" (?<helper_func_cdecl>@<lambda_47e1fe12d596ef4061c6cb1f8619960b>@@CAXPAV_CancellationTokenRegistration@details@Concurrency@@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "protected: void __thiscall Concurrency::details::_UnrealizedChore::_CheckTaskCollection(void)" (?_CheckTaskCollection@_UnrealizedChore@details@Concurrency@@IAEXXZ) referenced in function "public: virtual __thiscall Concurrency::details::_MallocaArrayHolder<class Concurrency::task_handle<class Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0> > >::~_MallocaArrayHolder<class Concurrency::task_handle<class Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0> > >(void)" (??1?$_MallocaArrayHolder@V?$task_handle@V?$_Parallel_chunk_helper@HIVProxyLoopBody@?A0x41734af5@@Vauto_partitioner@Concurrency@@$0A@@Concurrency@@@Concurrency@@@details@Concurrency@@UAE@XZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::details::_StructuredTaskCollection::~_StructuredTaskCollection(void)" (??1_StructuredTaskCollection@details@Concurrency@@QAE@XZ) referenced in function "void __cdecl Concurrency::_Parallel_chunk_impl<class Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0>,int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner const &>(int const &,unsigned int,unsigned int const &,class `anonymous namespace'::ProxyLoopBody const &,class Concurrency::auto_partitioner const &)" (??$_Parallel_chunk_impl@V?$_Parallel_chunk_helper@HIVProxyLoopBody@?A0x41734af5@@Vauto_partitioner@Concurrency@@$0A@@Concurrency@@HIVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@2@@Concurrency@@YAXABHIABIABVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@0@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: void __thiscall Concurrency::details::_StructuredTaskCollection::_Schedule(class Concurrency::details::_UnrealizedChore *)" (?_Schedule@_StructuredTaskCollection@details@Concurrency@@QAEXPAV_UnrealizedChore@23@@Z) referenced in function "void __cdecl Concurrency::_Parallel_chunk_impl<class Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0>,int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner const &>(int const &,unsigned int,unsigned int const &,class `anonymous namespace'::ProxyLoopBody const &,class Concurrency::auto_partitioner const &)" (??$_Parallel_chunk_impl@V?$_Parallel_chunk_helper@HIVProxyLoopBody@?A0x41734af5@@Vauto_partitioner@Concurrency@@$0A@@Concurrency@@HIVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@2@@Concurrency@@YAXABHIABIABVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@0@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: enum Concurrency::details::_TaskCollectionStatus __stdcall Concurrency::details::_StructuredTaskCollection::_RunAndWait(class Concurrency::details::_UnrealizedChore *)" (?_RunAndWait@_StructuredTaskCollection@details@Concurrency@@QAG?AW4_TaskCollectionStatus@23@PAV_UnrealizedChore@23@@Z) referenced in function "void __cdecl Concurrency::_Parallel_chunk_impl<class Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0>,int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner const &>(int const &,unsigned int,unsigned int const &,class `anonymous namespace'::ProxyLoopBody const &,class Concurrency::auto_partitioner const &)" (??$_Parallel_chunk_impl@V?$_Parallel_chunk_helper@HIVProxyLoopBody@?A0x41734af5@@Vauto_partitioner@Concurrency@@$0A@@Concurrency@@HIVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@2@@Concurrency@@YAXABHIABIABVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@0@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::details::_Cancellation_beacon::_Cancellation_beacon(void)" (??0_Cancellation_beacon@details@Concurrency@@QAE@XZ) referenced in function "public: __thiscall Concurrency::_Worker_proxy<unsigned int>::_Worker_proxy<unsigned int>(class Concurrency::_Worker_proxy<unsigned int> *)" (??0?$_Worker_proxy@I@Concurrency@@QAE@PAV01@@Z)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: __thiscall Concurrency::details::_Cancellation_beacon::~_Cancellation_beacon(void)" (??1_Cancellation_beacon@details@Concurrency@@QAE@XZ) referenced in function __unwindfunclet$??0?$_Worker_proxy@I@Concurrency@@QAE@PAV01@@Z$0
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "public: bool __thiscall Concurrency::details::_Cancellation_beacon::_Confirm_cancel(void)" (?_Confirm_cancel@_Cancellation_beacon@details@Concurrency@@QAE_NXZ) referenced in function "public: void __thiscall Concurrency::_Parallel_chunk_helper<int,unsigned int,class `anonymous namespace'::ProxyLoopBody,class Concurrency::auto_partitioner,0>::operator()(void)const " (??R?$_Parallel_chunk_helper@HIVProxyLoopBody@?A0x41734af5@@Vauto_partitioner@Concurrency@@$0A@@Concurrency@@QBEXXZ)
+opencv_core2410.lib(parallel.obj) : error LNK2019: unresolved external symbol "void __cdecl Concurrency::_Trace_ppl_function(struct _GUID const &,unsigned char,enum Concurrency::ConcRT_EventType)" (?_Trace_ppl_function@Concurrency@@YAXABU_GUID@@EW4ConcRT_EventType@1@@Z) referenced in function "void __cdecl Concurrency::parallel_for<int,class `anonymous namespace'::ProxyLoopBody>(int,int,class `anonymous namespace'::ProxyLoopBody const &,class Concurrency::auto_partitioner const &)" (??$parallel_for@HVProxyLoopBody@?A0x41734af5@@@Concurrency@@YAXHHABVProxyLoopBody@?A0x41734af5@@ABVauto_partitioner@0@@Z)
+opencv_core2410.lib(gpumat.obj) : error LNK2019: unresolved external symbol _printf referenced in function "public: virtual void __thiscall EmptyDeviceInfoFuncTable::printCudaDeviceInfo(int)const " (?printCudaDeviceInfo@EmptyDeviceInfoFuncTable@@UBEXH@Z)
+IlmImf.lib(ImfTiledInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(IlmThreadSemaphoreWin32.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfChannelListAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfOpaqueAttribute.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfScanLineInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfOutputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfChannelList.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(half.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfStdIO.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+opencv_core2410.lib(gpumat.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfHeader.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfFrameBuffer.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+IlmImf.lib(ImfInputFile.obj) : error LNK2001: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z)
+zlib.lib(gzwrite.obj) : error LNK2019: unresolved external symbol _vsnprintf referenced in function _gzprintf
+LIBCMT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol _vsnprintf
+libtiff.lib(tif_win32.obj) : error LNK2001: unresolved external symbol _vsnprintf
+libjasper.lib(jas_stream.obj) : error LNK2001: unresolved external symbol _vsnprintf
+LIBCMT.lib(vsnprintf.obj) : error LNK2001: unresolved external symbol __vsnprintf
+libjpeg.lib(jmemmgr.obj) : error LNK2019: unresolved external symbol _sscanf referenced in function _jinit_memory_mgr
+libjasper.lib(jas_seq.obj) : error LNK2019: unresolved external symbol _fscanf referenced in function _jas_seq2d_input
+libjasper.lib(jas_debug.obj) : error LNK2019: unresolved external symbol _vfprintf referenced in function _jas_eprintf
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\Debug\ExternalDLL.exe : fatal error LNK1120: 38 unresolved externals

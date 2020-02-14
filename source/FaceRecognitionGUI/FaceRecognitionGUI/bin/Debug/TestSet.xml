@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestSetFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name Name="trtrt" ImagePath="TestSet Images\trtrt.png">
+    <Parameters>
+      <double>2.8089822888145997</double>
+      <double>0.52900576620653483</double>
+      <double>0.66682725239579932</double>
+      <double>0</double>
+      <double>1.1897409784602047</double>
+      <double>0.98807878642077773</double>
+      <double>0.92505780033683371</double>
+      <double>3.1167278821348483</double>
+      <double>0.52598129735946408</double>
+      <double>0.10264415981782395</double>
+      <double>0.34285714285714247</double>
+      <double>0.28571428571428586</double>
+      <double>0.34404555939406567</double>
+      <double>0.57142857142857173</double>
+      <double>2.0113632421206744</double>
+      <double>1.1999999999999982</double>
+    </Parameters>
+  </name>
+</TestSetFile>

@@ -1,0 +1,10 @@
+﻿  DefaultPreProcessing.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  Main.cpp
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(20): warning C4091: 'static ': ignored on left of 'ImageFactory::Implementation' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(29): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationStudent' when no variable is declared
+C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\ExternalDLL\ImageFactory.h(37): warning C4091: 'static ': ignored on left of 'ImageFactory::ImplementationPrivate' when no variable is declared
+  Generating Code...
+  ExternalDLL2017.vcxproj -> C:\Users\sga\Documents\Vision\vision-finnff\source\ExternalDLL\Debug\ExternalDLL.dll

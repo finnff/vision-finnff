@@ -1,0 +1,13 @@
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\bin\Debug\FaceRecognitionGUI.exe
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\bin\Debug\FaceRecognitionGUI.pdb
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.csprojAssemblyReference.cache
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.g.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.EditTestSetDialog.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.OptionsForm.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.PictureForm.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.MainForm.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.Properties.Resources.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.TestsetManagerForm.resources
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.csproj.GenerateResource.cache
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.exe
+C:\Users\sga\Documents\Vision\vision-finnff\source\FaceRecognitionGUI\FaceRecognitionGUI\obj\Debug\FaceRecognitionGUI.pdb
