@@ -1,4 +1,5 @@
 #include "StudentPreProcessing.h"
+#include "iostream"
 
 
 IntensityImage * StudentPreProcessing::stepToIntensityImage(const RGBImage &image) const {
@@ -10,6 +11,9 @@ IntensityImage * StudentPreProcessing::stepScaleImage(const IntensityImage &imag
 }
 
 IntensityImage * StudentPreProcessing::stepEdgeDetection(const IntensityImage &image) const {
+	while(true){
+		std::cout<<"asjdjasjda"<<std::endl;
+	}
 	return nullptr;
 }
 

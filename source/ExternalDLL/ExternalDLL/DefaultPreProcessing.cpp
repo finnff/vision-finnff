@@ -31,24 +31,84 @@ IntensityImage * DefaultPreProcessing::stepScaleImage(const IntensityImage &src)
 	return IDoWanderEverywhere;
 }
 
+
+///******************************************finnff changes**********************************************************************************************
+
 IntensityImage * DefaultPreProcessing::stepEdgeDetection(const IntensityImage &src) const {
 	cv::Mat OverHillOverDale;
 	HereBeDragons::HerLoveForWhoseDearLoveIRiseAndFall(src, OverHillOverDale);
 	//cv::medianBlur(*image, *image, 3);
 	//cv::GaussianBlur(*image, *image, cv::Size(3, 3), 0, 0, cv::BORDER_DEFAULT);
+	
+	// cv::Mat ThoroughBushThoroughBrier = (cv::Mat_<float>(3, 3) << 0, 1, 0, 1, -4, 1, 0, 1, 0);
 	cv::Mat ThoroughBushThoroughBrier = (cv::Mat_<float>(9, 9) << 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0);
 	cv::Mat OverParkOverPale;
-	filter2D(OverHillOverDale, OverParkOverPale, CV_8U, ThoroughBushThoroughBrier, cv::Point(-1, -1), 0, cv::BORDER_DEFAULT);
+	filter2D(OverHillOverDale, OverParkOverPale, 0, ThoroughBushThoroughBrier, cv::Point(-1, -1), 0, cv::BORDER_DEFAULT);
 	IntensityImage * ThoroughFloodThoroughFire = ImageFactory::newIntensityImage();
 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverParkOverPale, *ThoroughFloodThoroughFire);
 	return ThoroughFloodThoroughFire;
 }
 
+
+
 IntensityImage * DefaultPreProcessing::stepThresholding(const IntensityImage &src) const {
 	cv::Mat OverHillOverDale;
 	HereBeDragons::HerLoveForWhoseDearLoveIRiseAndFall(src, OverHillOverDale);
-	cv::threshold(OverHillOverDale, OverHillOverDale, 220, 255, cv::THRESH_BINARY_INV);
+	cv::threshold(OverHillOverDale, OverHillOverDale, 150, 255, cv::THRESH_BINARY_INV);
 	IntensityImage * ThoroughBushThoroughBrier = ImageFactory::newIntensityImage();
 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverHillOverDale, *ThoroughBushThoroughBrier);
 	return ThoroughBushThoroughBrier;
 }
+
+
+
+
+
+///***************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//DEFAULT/ ORIGINAL IMPLEMENTATION
+
+// IntensityImage* DefaultPreProcessing::stepEdgeDetection(const IntensityImage& src) const {
+// 	cv::Mat OverHillOverDale;
+// 	HereBeDragons::HerLoveForWhoseDearLoveIRiseAndFall(src, OverHillOverDale);
+// 	//cv::medianBlur(*image, *image, 3);
+// 	//cv::GaussianBlur(*image, *image, cv::Size(3, 3), 0, 0, cv::BORDER_DEFAULT);
+// 	cv::Mat ThoroughBushThoroughBrier = (cv::Mat_<float>(9, 9) << 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0);
+// 	cv::Mat OverParkOverPale;
+// 	filter2D(OverHillOverDale, OverParkOverPale, CV_8U, ThoroughBushThoroughBrier, cv::Point(-1, -1), 0, cv::BORDER_DEFAULT);
+// 	IntensityImage* ThoroughFloodThoroughFire = ImageFactory::newIntensityImage();
+// 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverParkOverPale, *ThoroughFloodThoroughFire);
+// 	return ThoroughFloodThoroughFire;
+// }
+
+// IntensityImage * DefaultPreProcessing::stepThresholding(const IntensityImage &src) const {
+// 	cv::Mat OverHillOverDale;
+// 	HereBeDragons::HerLoveForWhoseDearLoveIRiseAndFall(src, OverHillOverDale);
+// 	cv::threshold(OverHillOverDale, OverHillOverDale, 220, 255, cv::THRESH_BINARY_INV);
+// 	IntensityImage * ThoroughBushThoroughBrier = ImageFactory::newIntensityImage();
+// 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverHillOverDale, *ThoroughBushThoroughBrier);
+// 	return ThoroughBushThoroughBrier;
+// }
+
