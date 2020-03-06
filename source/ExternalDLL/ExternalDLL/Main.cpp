@@ -16,17 +16,17 @@ bool executeSteps(DLLExecution * executor);
 int main(int argc, char * argv[]) {
 
 	ImageFactory::setImplementation(ImageFactory::DEFAULT);
-	//ImageFactory::setImplementation(ImageFactory::STUDENT);
+	// ImageFactory::setImplementation(ImageFactory::STUDENT);
 
 
-	ImageIO::debugFolder = "D:\\Users\\Rolf\\Downloads\\FaceMinMin";
+	ImageIO::debugFolder = "C:/Users/sga/Documents/Vision/vision-finnff/savedimages/";
 	ImageIO::isInDebugMode = true; //If set to false the ImageIO class will skip any image save function calls
 
 
 
 
 	RGBImage * input = ImageFactory::newRGBImage();
-	if (!ImageIO::loadImage("C:/Users/sga/Documents/Visio	n/vision-finnff/testsets/Set A/TestSet Images/child-1.png", *input)) {
+	if (!ImageIO::loadImage("C:/Users/sga/Documents/Vision/vision-finnff/testsets/Set A/TestSet Images/child-1.png", *input)) {
 		std::cout << "Image could not be loaded!" << std::endl;
 		system("pause");
 		return 0;
@@ -34,7 +34,7 @@ int main(int argc, char * argv[]) {
 
 
 
-	ImageIO::saveRGBImage(*input, ImageIO::getDebugFileName("debug.png"));
+	ImageIO::saveRGBImage(*input, ImageIO::getDebugFileName("	.png"));
 
 	DLLExecution * executor = new DLLExecution(input);
 
