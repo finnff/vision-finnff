@@ -42,7 +42,9 @@ IntensityImage * DefaultPreProcessing::stepEdgeDetection(const IntensityImage &s
 	
 	// cv::Mat ThoroughBushThoroughBrier = (cv::Mat_<float>(3, 3) << 0, 1, 0, 1, -4, 1, 0, 1, 0);
 	cv::Mat ThoroughBushThoroughBrier = (cv::Mat_<float>(9, 9) << 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 1, 1, 1, -4, -4, -4, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0);
-	cv::Mat OverParkOverPale;
+	
+    //change?
+    cv::Mat OverParkOverPale;
 	filter2D(OverHillOverDale, OverParkOverPale, 0, ThoroughBushThoroughBrier, cv::Point(-1, -1), 0, cv::BORDER_DEFAULT);
 	IntensityImage * ThoroughFloodThoroughFire = ImageFactory::newIntensityImage();
 	HereBeDragons::NoWantOfConscienceHoldItThatICall(OverParkOverPale, *ThoroughFloodThoroughFire);
@@ -65,19 +67,6 @@ IntensityImage * DefaultPreProcessing::stepThresholding(const IntensityImage &sr
 
 
 ///***************************************************************************************************************************************************
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
